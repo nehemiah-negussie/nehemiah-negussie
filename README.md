@@ -1,11 +1,9 @@
-hello!
+hello,
 
-my name is nehemiah 
+my name is nehemiah negussie
 
-currently interested in backend & systems programming
+interested in backend, systems, low level
 
-into any sort of low level stuff
+studying comp eng @ uwaterloo
 
-computer engineering @ uwaterloo
-
-email: nehemiah.negussie@uwaterloo.ca
+nehemiah.negussie@uwaterloo.ca
